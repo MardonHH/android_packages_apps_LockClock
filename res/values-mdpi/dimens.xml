@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_digital_widget_height">120.0dip</dimen>
+    <dimen name="min_digital_weather_height">80.0dip</dimen>
+    <dimen name="min_digital_calendar_height">105.0dip</dimen>
+    <dimen name="min_analog_weather_height">90.0dip</dimen>
+    <dimen name="min_analog_calendar_height">105.0dip</dimen>
+</resources>
